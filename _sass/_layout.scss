@@ -176,4 +176,17 @@
   padding:$spacing-unit;
   margin-bottom:$spacing-unit;
 }
+/**
+ * Pagination Style
+  */
+
+.pager{
+  margin-bottom: 60px;
+  text-align: center;
+  ul { display: block; margin: 20px 0; }
+  li{list-style: none;}
+  li.previous a{float:left;}
+  li.next a{float:right;}
+  li.disabled {display:none;}
+}
 
