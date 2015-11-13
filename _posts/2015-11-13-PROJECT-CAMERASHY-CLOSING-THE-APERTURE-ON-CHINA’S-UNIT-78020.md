@@ -2,7 +2,6 @@
 published: ture
 layout: post
 title: "PROJECT CAMERASHY CLOSING THE APERTURE ON CHINA’S UNIT 78020"
-date:   2015-11-13 13:14:01
 tags: [network attack]
 link: https://www.threatconnect.com/camerashy-resources/
 ---
