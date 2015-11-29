@@ -190,3 +190,18 @@
   li.disabled {display:none;}
 }
 
+/**
+* Tags
+**/
+.tags-box {
+  li {
+    list-style: none;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  .size {
+    font-size: 0.7em;
+    font-weight: bold;
+    vertical-align: super;
+  }
+}
