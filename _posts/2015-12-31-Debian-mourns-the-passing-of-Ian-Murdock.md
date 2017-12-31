@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "Debian mourns the passing of Ian Murdock"
 tags: [Ian Murdock]

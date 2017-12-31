@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "An arm and a leg"
 tags: Phrase Dictionary

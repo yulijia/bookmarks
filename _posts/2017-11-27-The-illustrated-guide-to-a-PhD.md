@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "The illustrated guide to a Ph.D."
 tags: PhD

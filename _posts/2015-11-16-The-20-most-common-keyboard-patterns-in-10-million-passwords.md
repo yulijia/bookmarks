@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "The 20 most common keyboard patterns in 10 million passwords"
 tags: [passwords]

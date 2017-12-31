@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "PROJECT CAMERASHY CLOSING THE APERTURE ON CHINA’S UNIT 78020"
 tags: [network attack]

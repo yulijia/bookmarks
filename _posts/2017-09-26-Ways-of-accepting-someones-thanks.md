@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "Ways of accepting someone's thanks"
 tags: thanks

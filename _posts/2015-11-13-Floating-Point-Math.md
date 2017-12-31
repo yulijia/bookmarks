@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "Floating Point Math"
 tags: [float number]

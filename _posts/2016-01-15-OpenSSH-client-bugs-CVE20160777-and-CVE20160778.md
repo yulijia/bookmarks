@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "OpenSSH: client bugs CVE-2016-0777 and CVE-2016-0778"
 tags: [Bug]

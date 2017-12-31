@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "Supreme Court Argument Audio"
 tags: [supreme court]

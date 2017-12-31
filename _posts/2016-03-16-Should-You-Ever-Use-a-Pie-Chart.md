@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "Should You Ever Use a Pie Chart?"
 tags: [Pie chart]

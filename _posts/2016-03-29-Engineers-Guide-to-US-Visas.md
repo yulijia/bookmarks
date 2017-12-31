@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "Engineer's Guide to US Visas"
 tags: [US Visa guide]

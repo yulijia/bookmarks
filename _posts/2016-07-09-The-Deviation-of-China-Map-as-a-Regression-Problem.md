@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "The Deviation of China Map as a Regression Problem"
 tags: China Map

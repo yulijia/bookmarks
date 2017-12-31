@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "huge virtual painting museum"
 tags: [painting museum]

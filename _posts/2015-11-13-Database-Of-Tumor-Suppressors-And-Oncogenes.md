@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "Database Of Tumor Suppressors And/Or Oncogenes"
 tags: [Tumor gene database]

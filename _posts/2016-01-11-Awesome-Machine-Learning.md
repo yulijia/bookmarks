@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "Awesome Machine Learning"
 tags: [machine learning]

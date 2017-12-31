@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "Still Not Significant"
 tags: [funny, significant]

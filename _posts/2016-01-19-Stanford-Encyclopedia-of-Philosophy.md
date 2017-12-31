@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "Stanford Encyclopedia of Philosophy"
 tags: [Paradox]

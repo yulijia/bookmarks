@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "Air Quality Index (AQI)"
 tags: [AQI]

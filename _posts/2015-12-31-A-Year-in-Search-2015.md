@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "A Year in Search 2015"
 tags: [google search]

@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "guess anyone's email address"
 tags: [rapportive]

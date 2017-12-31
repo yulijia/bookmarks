@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "The Infinite Hotel Paradox"
 tags: 

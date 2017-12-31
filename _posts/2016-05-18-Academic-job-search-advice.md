@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "Academic job search advice"
 tags: [academic job]

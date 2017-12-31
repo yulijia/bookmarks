@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "wikipedia is totally blocked in China"
 tags: [wiki]

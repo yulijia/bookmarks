@@ -1,5 +1,5 @@
 ---
-published: ture
+published: true
 layout: post
 title: "all it ebooks"
 tags: [it ebooks]
