@@ -3,7 +3,7 @@ title: Bookmarks
 email: yu@lijiayu.net
 description: my online bookmarks
 baseurl: "/bookmarks" # the subpath of your site, e.g. /blog/
-url: "http://yulijia.net" # the base hostname & protocol for your site
+url: "https://yulijia.net" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
